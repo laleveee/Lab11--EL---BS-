@@ -1,5 +1,5 @@
 # Partner 1: Eva Lalevee
-# Partner 2: Brian Shultz
+# Partner 2: Brian Schultz
 import math
 
 
